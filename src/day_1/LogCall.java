@@ -2,6 +2,6 @@ package day_1;
 
 public class LogCall {
   
-  //SERGEN BEY DIYECEKSINIZ
+  //I pull this note from git hub to intelli J
   
 }
